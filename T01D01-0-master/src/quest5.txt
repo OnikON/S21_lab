@@ -1,0 +1,5 @@
+1) nano door_1.conf
+2) внес изменения в редакторе  nano
+3) control + x
+4) y
+5) enter

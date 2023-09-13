@@ -1,0 +1,8 @@
+
+
+
+main : .o
+    gcc .o -o main
+
+.o : .c
+    gcc .c -o .o

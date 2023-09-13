@@ -1,0 +1,18 @@
+status: 301
+connection: close
+content-length: 0
+retry-after: 0
+location: https://i.imgur.com/oF6szj.jpg
+accept-ranges: bytes
+date: Sat, 27 Aug 2022 14:30:05 GMT
+x-served-by: cache-hel1410020-HEL
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1661610606.866239,VS0,VE0
+strict-transport-security: max-age=300
+access-control-allow-methods: GET, OPTIONS
+access-control-allow-origin: *
+server: cat factory 1.0
+-x-permanent-redirect-url: https://i.imgur.com/oF6szj.jpg
+content-location: http://i.imgur.com/oF6szj.jpg
+
